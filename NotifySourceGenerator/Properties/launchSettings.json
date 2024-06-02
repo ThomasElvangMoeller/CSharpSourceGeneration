@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "NotifySourceGenerator": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\NotifySourceGenerator.ConsoleTest\\NotifySourceGenerator.ConsoleTest.csproj"
+    }
+  }
+}
